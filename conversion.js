@@ -9,3 +9,8 @@ let value1="@!@#"
 let value2=Number(value1)
 console.log(value2);
 
+//****************************************OPERATIONS************************************************************ */
+
+let value3=45
+let valueneg= -value3;
+console.log(valueneg);
